@@ -4,7 +4,7 @@ title: "Kelime Oyunu"
 ---
 
 # A Word Cevapları
-<span style="font-size:18px;">Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
+Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
 <ol>
@@ -1079,22 +1079,20 @@ title: "Kelime Oyunu"
 
 <details>
 <summary><b>Kelime Gezgini</b> - Bulmaca 1001-1180 Cevaplar</summary> 
-<!--
 <ol start="1001">
-<li><b>Anadolu denince:</b> asd</li>
-<li><b>Bayram Mesajlarındaki en bilindik kelimeler:</b> asd</li>
-<li><b>Polis Çevirmesi:</b> asd</li>
-<li><b>Oduncu:</b> asd</li>
-<li><b>Demonte Mobilyalar:</b> asd</li>
-<li><b>Eş Anlamlısını Bul:</b> asd</li>
-<li><b>Otlak:</b> asd</li>
-<li><b>Arkadaş ortamında:</b> asd</li>
-<li><b>Rüzgar:</b> asd</li>
-<li><b>Kaçırılan Şeyler:</b> asd</li>
-<li><b>Zıt anlamlısını bul:</b> asd</li>
-<li><b>Roman Eleştirileri:</b> asd</li>
-<li><b>asd:</b> asd</li>
+<li><b>Anadolu denince:</b> </li>
+<li><b>Bayram Mesajlarındaki en bilindik kelimeler:</b> </li>
+<li><b>Polis Çevirmesi:</b> </li>
+<li><b>Oduncu:</b> </li>
+<li><b>Demonte Mobilyalar:</b> </li>
+<li><b>Eş Anlamlısını Bul:</b> </li>
+<li><b>Otlak:</b> </li>
+<li><b>Arkadaş ortamında:</b> </li>
+<li><b>Rüzgar:</b> </li>
+<li><b>Kaçırılan Şeyler:</b> </li>
+<li><b>Zıt anlamlısını bul:</b> </li>
+<li><b>Roman Eleştirileri:</b> </li>
+<li><b>asd:</b> </li>
 </ol>
--->
 Eklenecek
-</details></span>
+</details>
