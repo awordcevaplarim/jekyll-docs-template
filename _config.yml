@@ -11,9 +11,6 @@ google_analytics_id: ''
 #   2 - show only if posts are present
 navigation: 2
 
-# URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
-
 # Default categories (in order) to appear in the navigation
 sections: [
     ['doc', 'Documentation'],
