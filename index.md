@@ -4,7 +4,7 @@ title: "Kelime Oyunu"
 ---
 
 # A Word Cevapları
-Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
+<span style="font-size:18px;">Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
 <ol>
@@ -1097,4 +1097,4 @@ Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru c
 </ol>
 -->
 Eklenecek
-</details>
+</details></span>
