@@ -359,7 +359,7 @@ Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru c
 <li><b>Edebiyat:</b> Kafiye, Mecaz, Roman, Biyografi, Akrostiş, Mısra</li>
 <li><b>Yüzme:</b> Sırt Üstü, Kulaç, Havuz, Bone, Mayo, Kelebek, Palet</li>
 <li><b>Doğa Olayları:</b> Volkan, Hortum, Yıldırım, Deprem, Meteor, Şimşek</li>
-<li><b>İnsan İcadı Aptal Yönetim Biçimleri:</b> Cumhuriyet, Demokrasi, Oligarşi, Diktatörlük</li>
+<li><b>Kısıtlı İnsan Beyninin İcadı Saçma Yönetim Biçimleri:</b> Cumhuriyet, Demokrasi, Oligarşi, Diktatörlük</li>
 <li><b>İçkiler:</b> Kokteyl, Likör, Konyak, Viski, Şarap, Rakı, Tekila</li>
 <li><b>... Namazı:</b> Akşam, Teravih, Bayram, Nafile, İstihare, Cenaze</li>
 <li><b>Alet Çantası:</b> Çekiç, Tornavida, Kerpeten, Dübel, Maket Bıçağı</li>
