@@ -1092,7 +1092,6 @@ Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru c
 <li><b>Kaçırılan Şeyler:</b> </li>
 <li><b>Zıt anlamlısını bul:</b> </li>
 <li><b>Roman Eleştirileri:</b> </li>
-<li><b>asd:</b> </li>
 </ol>
 Eklenecek
 </details>
