@@ -4,7 +4,7 @@ title: "Kelime Oyunu"
 ---
 
 # A Word Cevapları
-Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
+Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
 <ol>
