@@ -1080,18 +1080,187 @@ Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru c
 <details>
 <summary><b>Kelime Gezgini</b> - Bulmaca 1001-1180 Cevaplar</summary> 
 <ol start="1001">
-<li><b>Anadolu denince:</b> </li>
-<li><b>Bayram Mesajlarındaki en bilindik kelimeler:</b> </li>
-<li><b>Polis Çevirmesi:</b> </li>
-<li><b>Oduncu:</b> </li>
-<li><b>Demonte Mobilyalar:</b> </li>
-<li><b>Eş Anlamlısını Bul:</b> </li>
-<li><b>Otlak:</b> </li>
-<li><b>Arkadaş ortamında:</b> </li>
-<li><b>Rüzgar:</b> </li>
-<li><b>Kaçırılan Şeyler:</b> </li>
-<li><b>Zıt anlamlısını bul:</b> </li>
-<li><b>Roman Eleştirileri:</b> </li>
+<p>1001.<strong> Anadolu denince :</strong> Mezopotamya – Malazgirt – Türkü – Otantik – Mutfak<br />
+1002. <strong>Bayram Mesajlarındaki en bilindik kelimeler :</strong> Huzurlu – Dileğiyle – Sevgi dolu – Hepbirlikte<br />
+1003. <strong>Polis Çevirmesi :</strong> Alkol varmı – Ehliyet – Promil – Memur bey – Sağa çek<br />
+1004. <strong>Oduncu :</strong> Balta – Orman – Gömlek – Sakal – Bere – Çizme – Halar<br />
+1005.<strong> Demonte Mobilyalar :</strong> Kurulum – Sabitleme – Aparat – Matkap – Yapımarket<br />
+1006.<strong> Eş Anlamlısını Bul :</strong> Garip – Tane – Pabuç – Garp – Nebat – Celse – Doktor – Faiz<br />
+1007. <strong>Otlak :</strong> Çayır – Çimen – Koyun – Mera – Yeşillik – Çoban köpeği<br />
+1008. <strong>Arkadaş ortamında :</strong> Çerez – Sohbet – Sessiz sinema – Canlı müzik – Pizza<br />
+1009. <strong>Rüzgar :</strong> Esinti – Uğultu – Tayfun – Meltem – Kasırga – Cereyan<br />
+1010. <strong>Kaçırılan Şeyler :</strong> İpin ucu – Çorap – Vapur – Uyku – Uçak – Heves – Fırsat<br />
+1011. <strong>Zıt anlamlısını bul :</strong> Acemi – Aydınlık – Doğal – Duru – Esaret – Islak – İlkel<br />
+1012. <strong>Roman Eleştirileri :</strong> Olağanüstü – Çarpıcı – Sürükleyici – Nefeskesen<br />
+1013. <strong>Pamuk denilince akla gelen :</strong> Çukurova – Tarla – Prenses – Kozmetik – Şeker – Kulak<br />
+1014.<strong> … Bandı :</strong> Yara – Burun – Nikotin – Göz – Üretim – Koli – Saç – Koşu<br />
+1015. <strong>İlkokul teneffüsleri :</strong> Kovalamaca – Maç – Köşe kapmaca – Kantin – Su savaşı<br />
+1016. <strong>Açık Arttırma :</strong> Müzayede – Sanat Eseri – Satıyorum – Antika – Mezat<br />
+1017. <strong>Takvim : </strong>Resmi tatil – Artıkyıl – Çizelge – Hafta – Miladi<br />
+1018. <strong>Klişe sözler :</strong> Yapma – Vergimle – İstanbul – Dizi – Sempatik – Kolay<br />
+1019. <strong>Tipik anne replikleri</strong> : Dökmeden ye – Odanı topla – Terlik giy – Babana sor<br />
+1020. <strong>Doğal Oluşumlar :</strong> Şelale – Mağara – Traverten – Falez – Gayzer – Kanyon<br />
+1021. <strong>Tren Yolculuğu :</strong> Kompartıman – Vagon – El bagajı – Yataklı – Ekspres<br />
+1022. <strong>Bahar … :</strong> Nezlesi – Yorgunluğu – Temizliği – Dönemi – Ayları<br />
+1023. <strong>Deniz Kenarı :</strong> Deniz kabuğu – Kızgın kum – Kayık – Rıhtım – Kayalık<br />
+1024. <strong>Genel Kültür :</strong> Kardiyolog – Bibi – Üzüm – Rabat – Mareşal – Klorofil<br />
+1025. <strong>Müze Çeşitleri :</strong> Sanat – Arkeoloji – Açıkhava – Etnografya – Askeri<br />
+1026. <strong>Böcek Isırması :</strong> Kızarıklık – Zehirli – Kene – Kaşıntı – Ateş – Şişlik<br />
+1027. <strong>Türk liralarının üzerinde bulunan figürler :</strong> Dna – Tüy kalem – Nota – Abaküs – Güvercin – Atom – Hokka<br />
+1028. <strong>Camdan Yapılan Nesneler :</strong> Sürahi – Kavanoz – Kadeh – Kül tablası – Sehpa – Avize<br />
+1029. <strong>Takıntılar :</strong> Ölüm – Hijyen – Şüphe – Yaş – Düzen – Simetri – Hastalık<br />
+1030. <strong>Akdenize Kıyısı Olmayan Ülkeler :</strong> Venezuela – Güney Kore – Arjantin – Yemen – Tayland<br />
+1031. <strong>Türkçesi ne :</strong> Ödenti – Canlı – Konu – Kestirim – Ayrım – Öykü – Olanak<br />
+1032. <strong>Tatbikatı Yapılan Şeyler : </strong>Tahliye – Yangın – Kurtarma – Savunma – Deprem<br />
+1033.<strong> Elektriği İleten Şeyler :</strong> Bakır – Çelik – Demir – Metal – Gümüş – Tuzlu Su – Platin<br />
+1034. <strong>Patlıcan Kullanılan Yemekler</strong> : Dolma – Musakka – Karnıyarık – Alinazik – Güveç<br />
+1035. <strong>En Sık Yanlış Yazılan Sözcükler :</strong> Herkes – Sürpriz – Aferin – Yalnız – Kirpik – Eşofman<br />
+1036. <strong>Züccaciyede Rastlanan Eşyalar :</strong> Süzgeç – Şekerlik – Çırpıcı – Rende – Termos – Şamdan<br />
+1037. <strong>Bil Bakalım :</strong> Fanus – Klozet – Zigon- Niş-Tanker-İhtiras- Kuşluk<br />
+1038. <strong>Elektronik Posta :</strong> Gelen kutusu – Ek – Taslak – Gönderen – Alıcı – Okundu<br />
+1039. <strong>Alışveriş Merkezi :</strong> Çekiliş – Danışma – Kampanya – Yemek katı – Otopark<br />
+1040. <strong>Üniversite Hayatı :</strong> Yurt – Amfi – Finaller – Yaz okulu – Şenlik – Blok ders<br />
+1041. <strong>Bostan :</strong> Korkuluk – Tırmık – Sera – Gübre – Çapa – Tohum – İlaç<br />
+1042.<strong> … Kursu :</strong> İngilizce – Diksiyon – Sürücü – Yüzme – İşaret dili<br />
+1043. <strong>Fırında Yapılır :</strong> Pizza – Balık – Biftek – Tavuk – Kurabiye – Kek – Poğaça<br />
+1044. <strong>Eş anlamlısını bul :</strong> Sahte – Egoist – Gayret – İtimat – Hususi – Koku – İtina<br />
+1045. <strong>Patates :</strong> Püre – Kızartma – Cips – Elma dilim – Baskı – Kumpir<br />
+1046. <strong>Kumsalda Satılan Şeyler :</strong> Süt mısır – Kağıt helva – Midye – Mayo – Terlik – Gazoz<br />
+1047. <strong>Kış denince akla gelenler :</strong> Kar topu – Polar – Salep – Bitki Çayı – Portakal – Tipi<br />
+1048. <strong>… Maskesi :</strong> Yüz – Balo – Cilt – Toz – Kaynak – Gaz – Oksijen<br />
+1049. <strong>Zıt Anlamlısını bul :</strong> Kurnaz – Nazik – Parlak – Perakende – Sık – Kirli – Ceza<br />
+1050.<strong> Uçamayan Kuşlar :</strong> Karabatak – Penguen – Tavus kuşu – Hindi – Devekuşu<br />
+1051.<strong> … Sigortası :</strong> Elektrik – Konut – Sağlık – Hayat – İşsizlik – Trafik<br />
+1052. <strong>Alerji belirtileri :</strong> Döküntü – Hapşırık – Akıntı – Yanma – Nefes darlığı<br />
+1053. <strong>Deprem :</strong> Sarsıntı – Zelzele – Fay hattı – Tsunami – Tektonik<br />
+1054. <strong>Hediyelik Eşyalar :</strong> Anahtarlık – Peluş – Yastık – Ayıcık – Müzik kutusu<br />
+1055. <strong>İmitasyon :</strong> Çakma – Sahte – Ucuz – Kopya – Fason – Korsan – Taklit<br />
+1056. <strong>Kilişe sözler :</strong> Erkekler – Arkadaş – Defansa – Diyete – Arayacağız<br />
+1057. <strong>Restoran :</strong> Masa – Arasıcak – Şef garson – Hesap – İkram – Adisyon<br />
+1058. <strong>Karne :</strong> Kırık – Zayıf – Pek iyi – Takdir – Teşekkür – Ortalama<br />
+1059. <strong>Ekip Çalışması :</strong> İş bölümü – Organize – Proje – Görev – Takım – Sinerji<br />
+1060. <strong>Uçurtma Yaparken :</strong> Yapıştırıcı – Çıta – Naylon – İp – Altıgen – Kuyruk<br />
+1061. <strong>Sakatat :</strong> Uykuluk – Bağırsak – Böbrek – Ciğer – İşkembe – Yürek<br />
+1062. <strong>Genel Kültür :</strong> İbni Sina – Azman – Nöron – Tuğra – Vejetaryan – Bemol<br />
+1063. <strong>Nasreddin Hoca :</strong> Eşek – Kavuk – Ye kürküm ye – Fıkra – Maya – Kazan – Bilge<br />
+1064. <strong>Mavinin Tonları</strong> : Lacivert – Gök – Safir – Cam göbeği – Kraliyet – Çilek<br />
+1065. <strong>Yön Bulmada Yararlanılan Şeyler :</strong> Pusula – Güneş – Yıldız – Yosun – Karınca – Mezar taşı<br />
+1066. <strong>Kulak :</strong> Çekiç – Üzengi – Salyangoz – Kepçe – Kıkırdak – Denge<br />
+1067. <strong>Geçmişten Günümüze Alfabeler :</strong> Çin – Yunan – Latin – Göktürk – Hint – Kiril – Arap – Uygur<br />
+1068. <strong>Türkçesi ne :</strong> Esin – Dinleti – Düğme – Dilek – Durağan – Torba – Yarar<br />
+1069. <strong>Birleşik Kelimelere Örnekler :</strong> Demirbaş – Külbastı – Kaynana – Sütlaç – Karadul<br />
+1070. <strong>Ziraat :</strong> Böcek – Hububat – Hasat – Yetiştirici – Ekin – Destek<br />
+1017. <strong>Konfeksiyon :</strong> Son ütücü – Motif – Dekolte – Pens – Kapüşon – Yırtmaç<br />
+1072. <strong>Bulmaca Türleri :</strong> Çengel – Anagram – Mozaik – Sudoku – Halka – Labirent<br />
+1073.<strong> Sevgiliye Söylenen Sözler :</strong> Aşkım – Sevdiğim – Meleğim – Hatun – Tatlım – Hayatım<br />
+1074. <strong>… Makinesi :</strong> Hesap – Dikiş – Tıraş – Tost – Kurutma – Yalan – Overlok<br />
+1075. <strong>Bil Bakalım :</strong> Çil – Duy – Sertifika – Peşinat – Gerdan – Gömü – Kungfu<br />
+1076. <strong>Egzersizler :</strong> Kürek – Bisiklet – Yürüyüş – Kardiyo – Aerobik – Step<br />
+1077. <strong>Matematik Problemleri :</strong> Havuz – Karışım – İşçi – Yaş – Kesir – Hız – Dörtişlem<br />
+1078. <strong>İş Güvenliği Malzemeleri :</strong> Baret – Gözlük – Tulum – Tozluk – Kulaklık – Siperlik<br />
+1079. <strong>Türkiye de ki Akarsular :</strong> Kızılırmak – Meriç – Susurluk – Aras – Fırat – Seyhan<br />
+1080. <strong>Pilav :</strong> Nohutlu – Bulgur – Şehriye – Bulyon – Buhara – Etsuyu<br />
+1081. <strong>İdare :</strong> Yönetim – Uyak – Kelime – Rehber – Grup – Mafsal – Nutuk<br />
+1082.<strong> Hamur İşleri :</strong> Dolama – Peksimet – Pişi – Yufka – Lokma – Açma – Ponçik<br />
+1083.<strong> Terzi :</strong> Sökük – Yama – Dikiş – Paça – Spor kesim – Mezura – Astar<br />
+1084. <strong>Pamuk Prenses :</strong> Öpücük – Cadı – Ayna – Zehir – Yedi Cüceler – Elma – Avcı<br />
+1085. <strong>… Sürmek :</strong> Krem – Hüküm – Ruj – Tarla – Çift – İz – El – Öner – Piyasaya<br />
+1086. <strong>Üzerinde Tuş Bulunan Şeyler :</strong> Daktilo – Piyano – Oyun kolu – Teyp – Asansör – Klavye<br />
+1087.<strong> Zıt Anlamlısını Bul :</strong> Yakın – Fakir – Kaliteli – Dert -Aleni -Azami -Durgun<br />
+1088. <strong>Matbaa :</strong> Baskı – Davetiye – Broşür – Punto – Ofset – Kuşe kağıt<br />
+1089.<strong> Dönen Şeyler :</strong> Vantilatör – Değirmen – Pervane – Semazen – Devran<br />
+1090.<strong> Silah Çeşitleri :</strong> Altıpatlar – Sapan – Pompalı – Tek saçma – Kurusıkı<br />
+1091.<strong> İstatistik :</strong> Sapma – Tahmin – Olasılık – Ortalama – Genelleme<br />
+1092. <strong>Bilgi Yarışmaları :</strong> Genel Kültür – Final – Teselli – Joker – Doğru cevap<br />
+1093. <strong>Bil Bakalım :</strong> Nükte – Desibal – Aval – Paçavra – Sarı lira – İkebana<br />
+1094. <strong>Güneş … :</strong> Çarpması – Enerjisi – Tutulması – Paneli – Sistemi<br />
+1095. <strong>Geri Dönüştürülebilen Malzemeler :</strong> Motor yağı – Karton – Ahşap – Pil – Cam – Kağıt – Plastik<br />
+1096. <strong>Derin Dondurucudaki Gıdalar :</strong> Kiraz – Mısır – Pizza – Kuşbaşı et – Yaprak – Barbunya<br />
+1097. <strong>Kullan- at Ürünler :</strong> Enjektör – Galoş – Bardak – Islak mendil – Abeslang<br />
+1098. <strong>Çikolata Denince :</strong> Sütlü – Fondü – Bağımlılık – Kakao – Kaçamak – Bitter<br />
+1099. <strong>Klişe Sözler :</strong> Kemiklerim – Önemli – Çocuklar – Başına – İzmir – Beş<br />
+1100. <strong>Evin Bölümleri :</strong> Salon – Banyo – Bebek odası – Garaj – Teras – Sundurma<br />
+1101. <strong>Başlıca İthal Ettiklerimiz :</strong> Doğalgaz – Elektrik – Gübre – Otomobil – Ham petrol<br />
+1102. <strong>Coğrafi Yer Şekilleri :</strong> Sıradağ – Uçurum – Yarımada – Resif – Ova – Plato – Vadi<br />
+1103. <strong>Ödül Törenlerinde Verilenler :</strong> Rozet – Kupa – Tabak – Şilt – Madalya – Hediye Çeki – Taç<br />
+1104.<strong> Tatile Giderken Yanımızda Bulunanlar :</strong> Hasır Şapka – Fön makinesi – Sinek kovar – Şinorkel<br />
+1105. <strong>Genel Kültür :</strong> Uruguay – Elma – Akustik – İngiltere – İsveç – Bulgur<br />
+1106. <strong>Beden Eğitimi Dersi :</strong> Eşofman – Minder – Turnike – Boy sırası – Sağbaştan<br />
+1107. <strong>… Çekmek :</strong> Fotoğraf – Kürek – Çile – Halat – Kalem – Tesbih – Fön<br />
+1108. <strong>İş Dünyası Buluşmaları :</strong> Kongre – Seminer – Konferans – Kurultay – Çalıştay<br />
+1109. <strong>Düzenli Spor :</strong> Enerjik – Tempo – Dinç – Fizik – Motivasyon – Dinamik<br />
+1110. <strong>Kapalı … :</strong> Çarşı – Otopark – Pide – Devre – Cezaevi – Spor salonu<br />
+1111. <strong>Türkçesi Ne :</strong> Olağan dışı – Demeç – Ayrıntı – Güvence – Bağnazlık<br />
+1112. <strong>Altın :</strong> Reşat – Sarraf – Cumhuriyet – Yastık altı – Yatırım<br />
+1113. <strong>Deprem Çantası :</strong> Düdük – Konserve – Çakmak – Su – Giysi – El feneri – Çakı<br />
+1114. <strong>Unutulan Şeyler :</strong> İsim – Ödev – İnsanlık – Doğum günü – Cüzdan – Randevu<br />
+1115. <strong>… Sistemi :</strong> Güneş – İşletim – Boşaltım – Ses – Eğitim – Koordinat<br />
+1116. <strong>Psikoloji :</strong> Melankoli – Panik atak – Terapi – Bilinç – Telapati<br />
+1117. <strong>Bil Bakalım :</strong> Konfeti – Diyez – Otlakçı – Ölü sezon – Yavan – El öpen<br />
+1118. <strong>Kültürü Oluşturan Unsurlar :</strong> Gelenek – Ahl<a href="http://awordcevaplari.net">a</a>k – Sanat – Görenek – Dil – Toprak – İklim<br />
+1119. <strong>Küresel Isınma :</strong> Sıcaklık – Karbon – Fosil Yakıt – Ozon – Kutup ayısı<br />
+1120. <strong>Evren :</strong> Karadelik – Galaksi – Kozmik – Sonsuzluk – Işık yılı<br />
+1121. <strong>Kolanın Kullanım Alanı :</strong> Kireç – Hıçkırık – İshal – Gübre – Pas – Yağ lekesi<br />
+1122. <strong>Onaylama Kelimeleri :</strong> Anlaşıldı – Tamamdır – Hayhay – Elbette – Haklısın<br />
+1123.<strong> Eş Anlamlısını Bul :</strong> Engel – Önlem – Hür – Problem – Saldırı – Şahit – Tebrik<br />
+1124. <strong>Yerken Birbirine Yapışık İkililer :</strong> Köfte Patates – Kola Çekirdek – Peynir Karpuz<br />
+1125.<strong> İlkbaharı Müjdeleyen Şeyler :</strong> Papatya – Cemre – Cıvıltı – Kelebek – Kuş Sesi – Çağla<br />
+1126. <strong>İş Görüşmesi :</strong> Resmiyet – Beden Dili – Hedef – Özgüven – Göz teması<br />
+1127. <strong>Uçak Yolcusunun Yanına Alamadığı Şeyler :</strong> Sprey – Çakmak – Tornavida – Bıçak – Makas – Sıvı gıda<br />
+1128. <strong>Kardeş :</strong> Kanbağı – Kıskançlık – Paylaşım – Rekabet – Sırdaş<br />
+1129. <strong>Bil Bakalım :</strong> Zamk – Ahmak Islatan – Akkor – Bedevi – Bonkör – Künde<br />
+1130. <strong>Tarihteki Ünlü Aşklar :</strong> Aslı Kerem – Arzu Kamber – Leyla Mecnun<br />
+1131. <strong>Yağda Kızartılan Şeyler :</strong> Karnabahar – Çiğ börek – Muz – Kalamar – Hamsi – Sosis<br />
+1132. <strong>… Kutusu :</strong> Pandoranın – Geri dönüşüm – S<a href="http://awordcevaplari.net">i</a>gorta – Gelen – Posta<br />
+1133. <strong>Bireysel Sporlar :</strong> Halter – Bovling – Bilek Güreşi – Rodeo – Binicilik<br />
+1134. <strong>Mesajlaşırken İlk Söylenen Sözler :</strong> Merhaba – Hey – Nasılsın – Naber – Selam – Uyudun mu<br />
+1135. <strong>Zıt Anlamlısını Bul :</strong> Baki – Taze – Cılız – Tembel – Kararlı – Çürük – Koyu<br />
+1136. <strong>Kara … :</strong> Tahta – Delik – Tren – Lahana – Para – Elmas – Yazı – Sevda<br />
+1137. <strong>Haberlerde Sıkça Karşılaştıklarımız :</strong> Ropörtaj – Teknoloji – Kaza – Transfer – Tutuklama<br />
+1138. <strong>Minibüs Şoförü Replikleri :</strong> Geçmez – Kapatıyorum – İlerleyelim – Bozuk yok mu<br />
+1139. <strong>İç Dekorasyon :</strong> Aydınlatma – Tadilat – Mimari – Mobilya – Aksesuar<br />
+1140. <strong>Tersten Okunuşu Aynı Olan Kelimeler :</strong> Teğet – Küçük – Radar – Süs – Efe – Yatay – Makam -Anavana<br />
+1141. <strong>Bil Bakalım :</strong> Hakaret – Kabine – Broş – Optimal – Peşkeş – Karabina<br />
+1142. <strong>Filmlerdeki Polis Replikleri :</strong> Eller yukarı – At Silahını – Teslim Ol – Kıpırdama<br />
+1143.<strong> İtalya :</strong> Roma – Pisa Kulesi – Çizme – Kolezyum – Pavarotti<br />
+1144. <strong>Aşırı Dikkat Gerektiren Şeyler</strong> : Bebek Bakımı – Sınav – Trafik – Ameliyat – Güvenlik<br />
+1145. <strong>Şaşırma Ünlemleri :</strong> Yuh – Ciddimisin – Gerçektenmi – Şakamı bu – Hadibe<br />
+1146. <strong>İş Adamı :</strong> Hırs – Takım elbise – İş Yemeği – Toplantı – Asistan<br />
+1147. <strong>Eş Anlamlısını Bul :</strong> Kuşku – Uzak – Ülkü – Birim – Vaziyet – Yoksul – Zorunlu<br />
+1148. <strong>Hoş Karşılanmayan İnsan Tipleri :</strong> Umursamaz – Yalancı – Açgözlü – Geveze – Kibirli<br />
+1149. <strong>Ev :</strong> Dört duvar – Özel Hayat – Huzur – Yuva – Rahatlık<br />
+1150. <strong>Kırsal Kesim :</strong> Hayvancılık – Arazi – Çiftlik – Kerpiç – Taşra – Sürü<br />
+1151. <strong>Heyecan Yapılan Yerler :</strong> Kürsü – Penaltı – Lunapark – Doğum – Nikah masası<br />
+1152. <strong>Tel Tel Olan Şeyler :</strong> Püskül – Kadayıf – Şehriye – Süpürge – Bulaşık teli<br />
+1153. <strong>Bil Bakalım :</strong> Enfeksiyon – Mısra – Farfara – Harabe – Tevazu<br />
+1154.<strong> Kale Kuşatması :</strong> Elçi – Mühimmat – Komutan – Şahi – Bozgun – Sancaktar<br />
+1155. <strong>Uzunluk Ölçüleri :</strong> Fersah – İnç – Kilometre – Mikron – Kulaç – Denizmili<br />
+1156. <strong>Çıkarıldığında Rahatlanan Şeyler :</strong> Çorap – Lens – Topuklu – Sütyen – Diş teli – Korse – Alçı<br />
+1157. <strong>Askeri Kamp :</strong> Eğitim – İrade – Dayanıklılık – Komando – Muharebe<br />
+1158. <strong>Toz… :</strong> Pembe – Şeker – Deterjan – Torbası – Duman – Biber<br />
+1159. <strong>Gürültülü Yerler :</strong> Hava alanı – Tören – Düğün Salonu – Fabrika – İnşaat<br />
+1160. <strong>Manav :</strong> Kese kağıdı – Tartı – Perakende – Yeşillik – Tüccar<br />
+1161. <strong>Ev Tipleri :</strong> Müstakil – Dağ – Taş – Prefabrik – Villa – Apart – Ahşap<br />
+1162. <strong>Para ile Satın Alınamayanlar :</strong> Sağlık – Dostluk – Zaman – Başarı – İtibar – Mutluluk<br />
+1163. <strong>Rahatsız Edici Şeyler :</strong> Kötü Koku – Delik Çorap – Sinek – Dağınıklık – Açlık<br />
+1164. <strong>Halı Türleri :</strong> Akrilik – Yolluk – Naylon – Yün – Elyaf – Polyester<br />
+1165. <strong>Komşudan İstenen Şeyler :</strong> Yoğurt Mayası – Şeker – Wifi – Sandalye – Sessizlik<br />
+1166. <strong>Tarihteki Savaşlar :</strong> Çaldıran – Dandanakan – Preveze – Mohaç – Ankara<br />
+1167. <strong>Otoburlar :</strong> Geyik – Bizon – Gergedan – Zürafa – Keçi – Manda – Zebra<br />
+1168. <strong>Afrika :</strong> Vahşi Doğa – Sömürge – Safari – Kabile – Madagaskar<br />
+1169. <strong>Avukat :</strong> Boşanma – Müvekkil – Cübbe – Savunma – Baro – Haciz<br />
+1170.<strong> Ege Denince Akla Gelenler :</strong> Zeybek – Çanakkale – Efes – Üzüm – Zeytinlik – Termal<br />
+1171. <strong>İp Kullanılan Yerler :</strong> Uçurtma – Çuval – Topaç – Balıkçılık – Takı – Koli<br />
+1172. <strong>Telefondaki Ayarlar Menüsü :</strong> Tuş kilidi – Batarya – Parlaklık – Bağlantı – Ekran<br />
+1173. <strong>Nostaljik Şeyler :</strong> Köstekli Saat – Duvar Takvimi – Kaset – Çaldırmak<br />
+1174.<strong> Yazı Yazılan Yerler</strong> : Ağaç Kabuğu – Duvar – Tabela – Taş – Mağara – Perşömen<br />
+1175. <strong>Gizli Konu :</strong> Yedigöller – Kuş cenneti – Nemrut – Uludağ – Munzur<br />
+1176. <strong>Gizli Konu :</strong> Madrid – Kiev – Kopenhag – Viyana – Kahire – Lizbon<br />
+1177. <strong>Gizli Konu :</strong> Sosis – Kavurma – Salam – Sucuk – Pastırma – Tereyağı<br />
+1178. <strong>Gizli Konu :</strong> İspirto – Gazyağı – Benzin – Lastik – Tiner – Motorin<br />
+1179. <strong>Gizli Konu :</strong> Boğmaca – Çocuk Felci – Kabakulak – Verem – Tetonos<br />
+1180. <strong>Bölüm Sonu :</strong> Taşeron- Pırıltı – Yasemin – Foseptik – Devremülk<br />
+
 </ol>
 Eklenecek
 </details>
