@@ -1261,6 +1261,4 @@ Sürekli güncelliyoruz. Hangi bölümdeyseniz üzerine tıklayın alta doğru c
 1179. <strong>Gizli Konu :</strong> Boğmaca – Çocuk Felci – Kabakulak – Verem – Tetonos<br />
 1180. <strong>Bölüm Sonu :</strong> Taşeron- Pırıltı – Yasemin – Foseptik – Devremülk<br />
 
-</ol>
-Eklenecek
-</details>
+
