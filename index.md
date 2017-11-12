@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kelime Oyunu"
+title: "Kelime Oyunu Bütün Cevapları 1180"
 ---
 
 # A Word Cevapları
