@@ -6,7 +6,7 @@ title: "Kelime Oyunu Bütün Cevapları 1180"
 # A Word Cevapları
 Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 
-## E-POSTA HESABINIZ YOKSA HEMEN AÇIN! <a href="http://mailhesabiac.xyz">E POSTA AL</a>
+## E-Posta hesabınız yoksa hemen açın: <a href="http://mailhesabiac.xyz">E POSTA AL</a>
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
 <ol>
