@@ -5,8 +5,16 @@ title: "Kelime Oyunu Bütün Cevapları 1180"
 
 # A Word Cevapları
 Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
-
-E-Posta hesabınız yoksa hemen açın: <a target="_blank" href="http://mailhesabiac.xyz">E POSTA AL</a>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsLink -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="2012296391"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <details>
 <summary><b>Yeni Başlayan</b> - Bulmaca 1-20 Cevaplar</summary> 
 <ol>
