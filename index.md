@@ -1270,3 +1270,5 @@ Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta 
 1178. <strong>Gizli Konu :</strong> İspirto – Gazyağı – Benzin – Lastik – Tiner – Motorin<br />
 1179. <strong>Gizli Konu :</strong> Boğmaca – Çocuk Felci – Kabakulak – Verem – Tetonos<br />
 1180. <strong>Bölüm Sonu :</strong> Taşeron- Pırıltı – Yasemin – Foseptik – Devremülk<br />
+
+<div style="display:none"><a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail kaydol</a> - <a href="https://www.epostakaydol.site/">E Posta kur</a></div>
