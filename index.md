@@ -6,12 +6,12 @@ title: "Kelime Oyunu Bütün Cevapları 1180"
 # A Word Cevapları
 Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ResponsLink -->
+<!-- Esnek Reklam -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="2012296391"
-     data-ad-format="link"></ins>
+     data-ad-slot="7191865997"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -1270,15 +1270,3 @@ Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta 
 1178. <strong>Gizli Konu :</strong> İspirto – Gazyağı – Benzin – Lastik – Tiner – Motorin<br />
 1179. <strong>Gizli Konu :</strong> Boğmaca – Çocuk Felci – Kabakulak – Verem – Tetonos<br />
 1180. <strong>Bölüm Sonu :</strong> Taşeron- Pırıltı – Yasemin – Foseptik – Devremülk<br />
-
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esnek Reklam -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="7191865997"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
