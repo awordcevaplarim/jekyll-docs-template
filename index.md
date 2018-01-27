@@ -6,12 +6,12 @@ title: "Kelime Oyunu Bütün Cevapları 1180"
 # A Word Cevapları
 Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta doğru cevaplar açılır.
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esnek Reklam -->
+<!-- ResponsLink -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="7191865997"
-     data-ad-format="auto"></ins>
+     data-ad-slot="2012296391"
+     data-ad-format="link"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
