@@ -920,7 +920,16 @@ Bütün cevaplar bulunmaktadır. Hangi bölümdeyseniz üzerine tıklayın alta 
 <li><b>Bölüm Sonu:</b> Anadolu, Barış, Günebakan, Bergüzar, Buğu, Cücük</li>
 </ol>
 </details>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Esnek Reklam -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="7191865997"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <details>
 <summary><b>Kelime Canavarı</b> - Bulmaca 841-1000 Cevaplar</summary> 
 <ol start="841">
